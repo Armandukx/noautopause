@@ -14,12 +14,11 @@
 	"license": "CC0-1.0",
 	"icon": "assets/noautopause/icon.png",
 	"environment": "*",
-	"mixins": [
-		{
-			"config": "noautopause.mixins.json",
-			"environment": "client"
-		}
-	],
+    "entrypoints": {
+      "client": [
+        "io.armandukx.noautopause.Main"
+      ]
+    },
 	"depends": {
 		"fabricloader": ">=0.18.3",
 		"minecraft": "~1.21",
