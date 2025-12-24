@@ -6,7 +6,7 @@
   <a href="https://modrinth.com/mod/vmmnudJO" target="_blank">
     <img src="https://img.shields.io/modrinth/v/vmmnudJO?label=release&color=informational&logo=Modrinth" alt="release">
   </a>
-  <a href="https://github.com/armandukx/noautopause/blob/main/LICENSE" target="_blank">
+  <a href="https://github.com/Armandukx/noautopause/blob/master/LICENSE" target="_blank">
     <img src="https://img.shields.io/badge/license-MIT-blue" alt="license">
   </a>
   <a href="https://modrinth.com/mod/vmmnudJO" target="_blank">
